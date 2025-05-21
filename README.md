@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/67583b3d-aae6-49c5-8cd8-493943bd06ed)Sure! Here’s a professional and clear README.md template for your weather app project:
+![image](https://github.com/user-attachments/assets/67583b3d-aae6-49c5-8cd8-493943bd06ed)
+Sure! Here’s a professional and clear README.md template for your weather app project:
 
 ````markdown
 # SkyCast — Weather Forecast App
